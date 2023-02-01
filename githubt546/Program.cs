@@ -7,6 +7,8 @@ namespace githubt546
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello jikl;!");
+
         }
     }
 }
